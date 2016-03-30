@@ -14,4 +14,4 @@ I'm not sure this is necessarily a big issue and I don't have any big issues wit
 
 But it's still different from how it behaved in 0.4.13 and earlier where I could use "en" and still not need to use custom namespaces.
 
-If you downgrade the aurelia-i18n in the packages json to 0.4.13 and switch the commented out plugin setups in main.js you can see that it works fine with "en" without namespaces. 
+If you downgrade the aurelia-i18n in the packages json to 0.4.13 and switch the commented out plugin setups in main.js you can see that it works fine with "en" without namespaces.
