@@ -1,0 +1,13 @@
+{
+  "alert": {
+    "error": "Error!",
+    "readmore": "Read more",
+    "warning": "Warning!"
+  },
+  "application": {
+    "addtofavorites": "Add to my favorites",
+    "applicationmenuheader": "Applications",
+    "openapplication": "Open-GB",
+    "removefromfavorites": "Remove from my favorites"
+  }
+}

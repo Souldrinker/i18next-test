@@ -1,0 +1,13 @@
+{
+  "alert": {
+    "error": "Fel!",
+    "readmore": "Läs mer",
+    "warning": "Varning!"
+  },
+  "application": {
+    "addtofavorites": "Lägg till i mina favoriter",
+    "applicationmenuheader": "Applikationer",
+    "openapplication": "Öppna",
+    "removefromfavorites": "Ta bort från mina favoriter"
+  }
+}
